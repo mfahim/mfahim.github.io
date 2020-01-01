@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Mohammad Fahim</title>
+    <link>https://mfahim.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on Mohammad Fahim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 26 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mfahim.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>No CMS Movement</title>
+      <link>https://mfahim.github.io/posts/no-cms-movement/</link>
+      <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mfahim.github.io/posts/no-cms-movement/</guid>
+      <description>&lt;h4 id=&#34;welcome-to-my-first-post&#34;&gt;Welcome to my first post!&lt;/h4&gt;
+&lt;p&gt;Yeah! This post is a static HTML page, No dynamic partial fragments, no connection to database, no charges from any CMS website or 3rd party. Unbelievable, isn&#39;t it?&lt;/p&gt;
+&lt;p&gt;It&#39;s a page written in MarkDown and deployed on GitHub.
+Internet and its evolving nature pushed us one more time to a correct direction. 
+Obviously, all static pages are faster, less expensive and more straightforward to maintain.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohammad Fahim</title>
+    <link>https://mfahim.github.io/</link>
+    <description>Recent content on Mohammad Fahim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 15 Aug 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mfahim.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Working as Stream Lead</title>
+      <link>https://mfahim.github.io/posts/working-as-stream-lead/</link>
+      <pubDate>Sat, 15 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mfahim.github.io/posts/working-as-stream-lead/</guid>
+      <description>&lt;p&gt;Last month I got promotion from the company that I work for and now I wear a new hat as Stream Lead. This title could be a little in an Scrum environment,&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Loops And Iterations in GoLang</title>
+      <link>https://mfahim.github.io/posts/read/write-files-in-golang/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mfahim.github.io/posts/read/write-files-in-golang/</guid>
+      <description>&lt;p&gt;Like any other language Go has its way of doing things such as for, while,&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About Visual Studio 2015</title>
+      <link>https://mfahim.github.io/posts/about-visual-studio-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mfahim.github.io/posts/about-visual-studio-2015/</guid>
+      <description>&lt;p&gt;I don&#39;t know how long you&#39;ve been on the Visual Studio train, but my personal experience started when Visual C++ 6.0 was the only game in the town. MFC and ATL were the major solid libraries that most developers relied on. However, my primary focus of this post is more about the evolution of Visual Studio.Net since 2002.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Read/Write files in GoLang</title>
+      <link>https://mfahim.github.io/posts/read/write-files-in-golang/</link>
+      <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mfahim.github.io/posts/read/write-files-in-golang/</guid>
+      <description>&lt;p&gt;When dealing with files in Go, &amp;lsquo;os&amp;rsquo; and &amp;lsquo;ioutil&amp;rsquo; built-in packages provide  some utility functions to work with I/O.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About This Blog</title>
+      <link>https://mfahim.github.io/about/</link>
+      <pubDate>Thu, 09 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mfahim.github.io/about/</guid>
+      <description>Mohammad Fahim is a Software developer and his career focus has been on the building of online software solutions resulting in a deep understanding of the technologies used and challenges faced when working in this space.
+He is interested in the full lifecycle of software solution delivery utilizing Agile techniques and enjoy helping to build high-performance teams.
+His current path is more on cloud engineering principles:
+ Implement the solutions for quality of cloud managed services e.</description>
+    </item>
+    
+    <item>
+      <title>No CMS Movement</title>
+      <link>https://mfahim.github.io/posts/no-cms-movement/</link>
+      <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mfahim.github.io/posts/no-cms-movement/</guid>
+      <description>&lt;h4 id=&#34;welcome-to-my-first-post&#34;&gt;Welcome to my first post!&lt;/h4&gt;
+&lt;p&gt;Yeah! This post is a static HTML page, No dynamic partial fragments, no connection to database, no charges from any CMS website or 3rd party. Unbelievable, isn&#39;t it?&lt;/p&gt;
+&lt;p&gt;It&#39;s a page written in MarkDown and deployed on GitHub.
+Internet and its evolving nature pushed us one more time to a correct direction. 
+Obviously, all static pages are faster, less expensive and more straightforward to maintain.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

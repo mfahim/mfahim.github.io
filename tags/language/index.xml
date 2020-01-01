@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Language on Mohammad Fahim</title>
+    <link>https://mfahim.github.io/tags/language/</link>
+    <description>Recent content in Language on Mohammad Fahim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 01 Aug 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mfahim.github.io/tags/language/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Loops And Iterations in GoLang</title>
+      <link>https://mfahim.github.io/posts/read/write-files-in-golang/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mfahim.github.io/posts/read/write-files-in-golang/</guid>
+      <description>&lt;p&gt;Like any other language Go has its way of doing things such as for, while,&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Read/Write files in GoLang</title>
+      <link>https://mfahim.github.io/posts/read/write-files-in-golang/</link>
+      <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mfahim.github.io/posts/read/write-files-in-golang/</guid>
+      <description>&lt;p&gt;When dealing with files in Go, &amp;lsquo;os&amp;rsquo; and &amp;lsquo;ioutil&amp;rsquo; built-in packages provide  some utility functions to work with I/O.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

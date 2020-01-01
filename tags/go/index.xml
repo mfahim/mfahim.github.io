@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go on Mohammad Fahim</title>
+    <link>https://mfahim.github.io/tags/go/</link>
+    <description>Recent content in Go on Mohammad Fahim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 01 Aug 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mfahim.github.io/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Loops And Iterations in GoLang</title>
+      <link>https://mfahim.github.io/posts/read/write-files-in-golang/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mfahim.github.io/posts/read/write-files-in-golang/</guid>
+      <description>&lt;p&gt;Like any other language Go has its way of doing things such as for, while,&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Read/Write files in GoLang</title>
+      <link>https://mfahim.github.io/posts/read/write-files-in-golang/</link>
+      <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mfahim.github.io/posts/read/write-files-in-golang/</guid>
+      <description>&lt;p&gt;When dealing with files in Go, &amp;lsquo;os&amp;rsquo; and &amp;lsquo;ioutil&amp;rsquo; built-in packages provide  some utility functions to work with I/O.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>No CMS Movement</title>
+      <link>https://mfahim.github.io/posts/no-cms-movement/</link>
+      <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mfahim.github.io/posts/no-cms-movement/</guid>
+      <description>&lt;h4 id=&#34;welcome-to-my-first-post&#34;&gt;Welcome to my first post!&lt;/h4&gt;
+&lt;p&gt;Yeah! This post is a static HTML page, No dynamic partial fragments, no connection to database, no charges from any CMS website or 3rd party. Unbelievable, isn&#39;t it?&lt;/p&gt;
+&lt;p&gt;It&#39;s a page written in MarkDown and deployed on GitHub.
+Internet and its evolving nature pushed us one more time to a correct direction. 
+Obviously, all static pages are faster, less expensive and more straightforward to maintain.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
