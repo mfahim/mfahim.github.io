@@ -1,29 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Static Blogging Engine on Notes to Myself on Software Development</title>
-    <link>https://mfahim.github.io/tags/static-blogging-engine/</link>
-    <description>Recent content in Static Blogging Engine on Notes to Myself on Software Development</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 26 Jan 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://mfahim.github.io/tags/static-blogging-engine/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>No CMS Movement</title>
-      <link>https://mfahim.github.io/posts/no-cms-movement/</link>
-      <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://mfahim.github.io/posts/no-cms-movement/</guid>
-      <description>&lt;h4 id=&#34;welcome-to-my-first-post&#34;&gt;Welcome to my first post!&lt;/h4&gt;
-&lt;p&gt;Yeah! This post is a static HTML page, No dynamic partial fragments, no connection to database, no charges from any CMS website or 3rd party. Unbelievable, isn&#39;t it?&lt;/p&gt;
-&lt;p&gt;It&#39;s a page written in MarkDown and deployed on GitHub.
-Internet and its evolving nature pushed us one more time to a correct direction. 
-Obviously, all static pages are faster, less expensive and more straightforward to maintain.&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Static Blogging Engine on Notes to Myself on Software Development</title><link>https://mfahim.github.io/tags/static-blogging-engine/</link><description>Recent content in Static Blogging Engine on Notes to Myself on Software Development</description><generator>Hugo</generator><language>en-us</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 26 Jan 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://mfahim.github.io/tags/static-blogging-engine/index.xml" rel="self" type="application/rss+xml"/><item><title>No CMS Movement</title><link>https://mfahim.github.io/posts/no-cms-movement/</link><pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate><guid>https://mfahim.github.io/posts/no-cms-movement/</guid><description>&lt;h4 id="welcome-to-my-first-post">Welcome to my first post!&lt;a href="#welcome-to-my-first-post" class="anchor" aria-hidden="true">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+ stroke-linecap="round" stroke-linejoin="round">
+ &lt;path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3">&lt;/path>
+ &lt;line x1="8" y1="12" x2="16" y2="12">&lt;/line>
+ &lt;/svg>&lt;/a>&lt;/h4>
+&lt;p>Yeah! This post is a static HTML page, No dynamic partial fragments, no connection to database, no charges from any CMS website or 3rd party. Unbelievable, isn&amp;rsquo;t it?&lt;/p>
+&lt;p>It&amp;rsquo;s a page written in MarkDown and deployed on GitHub.
+Internet and its evolving nature pushed us one more time to a correct direction.
+Obviously, all static pages are faster, less expensive and more straightforward to maintain.&lt;/p></description></item></channel></rss>

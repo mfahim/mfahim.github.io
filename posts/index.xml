@@ -1,135 +1,84 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Posts on Notes to Myself on Software Development</title>
-		<link>https://mfahim.github.io/posts/</link>
-		<description>Recent content in Posts on Notes to Myself on Software Development</description>
-		<generator>Hugo -- gohugo.io</generator>
-		<language>en-us</language>
-		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Sat, 15 Aug 2015 00:00:00 +0000</lastBuildDate>
-		<atom:link href="https://mfahim.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-		
-		<item>
-			<title>Working as Stream Lead</title>
-			<link>https://mfahim.github.io/posts/working-as-stream-lead/</link>
-			<pubDate>Sat, 15 Aug 2015 00:00:00 +0000</pubDate>
-			
-			<guid>https://mfahim.github.io/posts/working-as-stream-lead/</guid>
-			<description>&lt;p&gt;+++
-date = &amp;ldquo;2015-08-15&amp;rdquo;
-Description = &amp;ldquo;Working as Stream Lead.&amp;rdquo;
-Keywords = [&amp;ldquo;Development&amp;rdquo;, &amp;ldquo;Lead&amp;rdquo;]
-Section = &amp;ldquo;post&amp;rdquo;
-Slug = &amp;ldquo;Working as Stream Lead&amp;rdquo;
-Tags = [&amp;ldquo;Soft skills&amp;rdquo;]
-Title = &amp;ldquo;Working as Stream Lead&amp;rdquo;
-+++&lt;/p&gt;
-&lt;p&gt;Last month I got a promotion from the company that I work for and now I wear a new hat as Stream Lead. This title could be a little in a Scrum environment,&lt;/p&gt;</description>
-			<content type="html"><![CDATA[<p>+++
-date = &ldquo;2015-08-15&rdquo;
-Description = &ldquo;Working as Stream Lead.&rdquo;
-Keywords = [&ldquo;Development&rdquo;, &ldquo;Lead&rdquo;]
-Section = &ldquo;post&rdquo;
-Slug = &ldquo;Working as Stream Lead&rdquo;
-Tags = [&ldquo;Soft skills&rdquo;]
-Title = &ldquo;Working as Stream Lead&rdquo;
-+++</p>
-<p>Last month I got a promotion from the company that I work for and now I wear a new hat as Stream Lead. This title could be a little in a Scrum environment,</p>
-<p>However, the idea comes from Spotify. Here is a brief introduction to how that could be useful.<a href="https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/">(more)</a></p>
-<h2 id="first-days-as-stream-lead">&lsquo;First Days as Stream lead&rsquo;</h2>
-<p><strong>The Challenges</strong>
-Apparently, I need to increase my knowledge of people/soft skills. <em>&lsquo;The soft stuff is always harder than the hard stuff.'</em> It elevates our hard skills beyond the constraints of learning disciplines, personal beliefs, and training.
-I like the idea of focused people  development based on these principles:</p>
-<ul>
-<li>Trust</li>
-<li>Loyalty</li>
-<li>Performance</li>
-<li>New opportunities</li>
-<li>Growth/motivation</li>
-</ul>
-<p>I believe there's a difference between trust and sense of reliability - for that, computers probably have the edge over us. I'm referring to the kind of trust that makes a workplace less poisonous and leads to better relationships between individuals and eventually more motivated and better outcomes. I realize the people I trust most are those whose vision or values resonate with my own.</p>
-<p>Loyalty means the team independently reinforce trust in a relationship. To achieve loyalty we must meet your commitments and consistently exceed expectations.</p>
-<p>Attitudes and behaviors are playing a big role in a team's productivity. (Performance and growth) Positive team attitudes motivate members to step beyond what they believe to be limitations until they stretch to new personal levels.</p>
-<p>Well, it all starts with me. I need to work harder to understand and materialized the above concepts into more profitability for stakeholders and create new opportunities for my team.</p>]]></content>
-		</item>
-		
-		<item>
-			<title>Loops And Iterations in GoLang</title>
-			<link>https://mfahim.github.io/posts/read/write-files-in-golang/</link>
-			<pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
-			
-			<guid>https://mfahim.github.io/posts/read/write-files-in-golang/</guid>
-			<description>&lt;p&gt;Like any other language Go has its way of doing things such as for, while,&lt;/p&gt;</description>
-			<content type="html"><![CDATA[<p>Like any other language Go has its way of doing things such as for, while,</p>
-<h2 id="os-package">&lsquo;os&rsquo; package</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>Posts on Notes to Myself on Software Development</title><link>https://mfahim.github.io/posts/</link><description>Recent content in Posts on Notes to Myself on Software Development</description><generator>Hugo -- 0.126.1</generator><language>en-us</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 15 Aug 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://mfahim.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Working as Stream Lead</title><link>https://mfahim.github.io/posts/working-as-stream-lead/</link><pubDate>Sat, 15 Aug 2015 00:00:00 +0000</pubDate><guid>https://mfahim.github.io/posts/working-as-stream-lead/</guid><description>Working as Stream Lead.</description><content type="text/html" mode="escaped"><![CDATA[<p>Last month I got promotion from the company that I work for and now I wear a new hat as Stream Lead. This title could be a little in an Scrum environment,</p>
+<p>However, the idea comes from Spotify. Here is a brief introduction on how that could be useful.<a href="https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/">(more)</a></p>
+<h2 id="first-days-as-stream-lead">&lsquo;First Days as Stream lead&rsquo;<a href="#first-days-as-stream-lead" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>]]></content></item><item><title>Loops And Iterations in GoLang</title><link>https://mfahim.github.io/posts/read/write-files-in-golang/</link><pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate><guid>https://mfahim.github.io/posts/read/write-files-in-golang/</guid><description>Read/Write files in GoLang.</description><content type="text/html" mode="escaped"><![CDATA[<p>Like any other language Go has its way of doing things such as for, while,</p>
+<h2 id="os-package">&lsquo;os&rsquo; package<a href="#os-package" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p><strong>For loop</strong></p>
 <p>The most simple approach can be done through &ldquo;os&rdquo; package. The error handling is Go-like; failing calls return values of type error rather than error numbers.</p>
-<div class="highlight"><pre class="chroma"><code class="language-go" data-lang="go">
-	<span class="c1">// map
-</span><span class="c1"></span>	<span class="kd">var</span> <span class="nx">mapCol</span> <span class="p">=</span> <span class="nb">make</span><span class="p">(</span><span class="kd">map</span><span class="p">[</span><span class="kt">int</span><span class="p">]</span><span class="kt">string</span><span class="p">)</span>
-	<span class="nx">mapCol</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="p">=</span> <span class="s">&#34;Hellp&#34;</span>
-	<span class="nx">mapCol</span><span class="p">[</span><span class="mi">2</span><span class="p">]</span> <span class="p">=</span> <span class="s">&#34;me&#34;</span>
-
-	<span class="nx">fmt</span><span class="p">.</span><span class="nf">Println</span><span class="p">(</span><span class="nx">mapCol</span><span class="p">)</span>
-
-</code></pre></div><p>The preferred approach after opening any file is safe closing that file. Go has a modern way of doing this by calling &lsquo;defer&rsquo; statement. It's perfect for situations when resources must be release regardless of which path a function takes to return. For example, in opening multiple files; defer guarantees that  all resources will be safely released if any error occurred during opening one the files.</p>
-<p><strong>While loop</strong></p>
-<p>In order to show the file's content, I created a buffer to keep the chunks that I read and iterate over that to show the content.</p>
-<div class="highlight"><pre class="chroma"><code class="language-go" data-lang="go">	<span class="kd">var</span> <span class="nx">arrStr</span> <span class="p">[</span><span class="mi">3</span><span class="p">]</span><span class="kt">int</span>
-	<span class="nx">arrStr</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="p">=</span> <span class="mi">10</span>
-	<span class="nx">arrStr</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="p">=</span> <span class="mi">12</span>
-
-	<span class="nx">slicer</span> <span class="o">:=</span> <span class="nx">arrStr</span><span class="p">[</span><span class="mi">1</span><span class="p">:</span><span class="p">]</span>
-	<span class="nx">slicer</span> <span class="p">=</span> <span class="nb">append</span><span class="p">(</span><span class="nx">slicer</span><span class="p">,</span> <span class="mi">23</span><span class="p">)</span>
-	<span class="nx">fmt</span><span class="p">.</span><span class="nf">Println</span><span class="p">(</span><span class="nx">slicer</span><span class="p">)</span>
-
-</code></pre></div><h2 id="bufio-package">&lsquo;bufio&rsquo; package</h2>
-<p>&lsquo;bufio&rsquo; provides buffering under the hood and makes really when we're working with lots of reads and writes, specially for text files.
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">	<span class="c1">// map
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>	<span class="kd">var</span> <span class="nx">mapCol</span> <span class="p">=</span> <span class="nb">make</span><span class="p">(</span><span class="kd">map</span><span class="p">[</span><span class="kt">int</span><span class="p">]</span><span class="kt">string</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">	<span class="nx">mapCol</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="p">=</span> <span class="s">&#34;Hellp&#34;</span>
+</span></span><span class="line"><span class="cl">	<span class="nx">mapCol</span><span class="p">[</span><span class="mi">2</span><span class="p">]</span> <span class="p">=</span> <span class="s">&#34;me&#34;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">	<span class="nx">fmt</span><span class="p">.</span><span class="nf">Println</span><span class="p">(</span><span class="nx">mapCol</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="s">``</span>
+</span></span><span class="line"><span class="cl"><span class="nx">The</span> <span class="nx">preferred</span> <span class="nx">approach</span> <span class="nx">after</span> <span class="nx">opening</span> <span class="nx">any</span> <span class="nx">file</span> <span class="nx">is</span> <span class="nx">safe</span> <span class="nx">closing</span> <span class="nx">that</span> <span class="nx">file</span><span class="p">.</span> <span class="nx">Go</span> <span class="nx">has</span> <span class="nx">a</span> <span class="nx">modern</span> <span class="nx">way</span> <span class="nx">of</span> <span class="nx">doing</span> <span class="nx">this</span> <span class="nx">by</span> <span class="nx">calling</span> <span class="err">&#39;</span><span class="k">defer</span><span class="err">&#39;</span> <span class="nx">statement</span><span class="p">.</span> <span class="nx">It</span><span class="err">&#39;</span><span class="nx">s</span> <span class="nx">perfect</span> <span class="k">for</span> <span class="nx">situations</span> <span class="nx">when</span> <span class="nx">resources</span> <span class="nx">must</span> <span class="nx">be</span> <span class="nx">release</span> <span class="nx">regardless</span> <span class="nx">of</span> <span class="nx">which</span> <span class="nx">path</span> <span class="nx">a</span> <span class="nx">function</span> <span class="nx">takes</span> <span class="nx">to</span> <span class="k">return</span><span class="p">.</span> <span class="nx">For</span> <span class="nx">example</span><span class="p">,</span> <span class="nx">in</span> <span class="nx">opening</span> <span class="nx">multiple</span> <span class="nx">files</span><span class="p">;</span> <span class="k">defer</span> <span class="nx">guarantees</span> <span class="nx">that</span>  <span class="nx">all</span> <span class="nx">resources</span> <span class="nx">will</span> <span class="nx">be</span> <span class="nx">safely</span> <span class="nx">released</span> <span class="k">if</span> <span class="nx">any</span> <span class="kt">error</span> <span class="nx">occurred</span> <span class="nx">during</span> <span class="nx">opening</span> <span class="nx">one</span> <span class="nx">the</span> <span class="nx">files</span><span class="p">.</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="o">**</span><span class="nx">While</span> <span class="nx">loop</span><span class="o">**</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nx">In</span> <span class="nx">order</span> <span class="nx">to</span> <span class="nx">show</span> <span class="nx">the</span> <span class="nx">file</span><span class="err">&#39;</span><span class="nx">s</span> <span class="nx">content</span><span class="p">,</span> <span class="nx">I</span> <span class="nx">created</span> <span class="nx">a</span> <span class="nx">buffer</span> <span class="nx">to</span> <span class="nx">keep</span> <span class="nx">the</span> <span class="nx">chunks</span> <span class="nx">that</span> <span class="nx">I</span> <span class="nx">read</span> <span class="nx">and</span> <span class="nx">iterate</span> <span class="nx">over</span> <span class="nx">that</span> <span class="nx">to</span> <span class="nx">show</span> <span class="nx">the</span> <span class="nx">content</span><span class="p">.</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="s">``</span><span class="err">`</span><span class="k">go</span>
+</span></span><span class="line"><span class="cl">	<span class="kd">var</span> <span class="nx">arrStr</span> <span class="p">[</span><span class="mi">3</span><span class="p">]</span><span class="kt">int</span>
+</span></span><span class="line"><span class="cl">	<span class="nx">arrStr</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="p">=</span> <span class="mi">10</span>
+</span></span><span class="line"><span class="cl">	<span class="nx">arrStr</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="p">=</span> <span class="mi">12</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">	<span class="nx">slicer</span> <span class="o">:=</span> <span class="nx">arrStr</span><span class="p">[</span><span class="mi">1</span><span class="p">:]</span>
+</span></span><span class="line"><span class="cl">	<span class="nx">slicer</span> <span class="p">=</span> <span class="nb">append</span><span class="p">(</span><span class="nx">slicer</span><span class="p">,</span> <span class="mi">23</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">	<span class="nx">fmt</span><span class="p">.</span><span class="nf">Println</span><span class="p">(</span><span class="nx">slicer</span><span class="p">)</span>
+</span></span></code></pre></div><h2 id="bufio-package">&lsquo;bufio&rsquo; package<a href="#bufio-package" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>&lsquo;bufio&rsquo; provides buffering under the hood and makes really when we&rsquo;re working with lots of reads and writes, specially for text files.
 &lsquo;NewReader&rsquo; returns a reader whose buffer has default size. For example for reading a file the code looks like below.</p>
-<div class="highlight"><pre class="chroma"><code class="language-golang" data-lang="golang">
-	<span class="nx">reader</span> <span class="o">:=</span> <span class="nx">bufio</span><span class="p">.</span><span class="nf">NewReader</span><span class="p">(</span><span class="nx">file</span><span class="p">)</span> <span class="c1">// make a read buffer
-</span><span class="c1"></span>	
-	<span class="nx">data</span> <span class="o">:=</span> <span class="nb">make</span><span class="p">(</span><span class="p">[</span><span class="p">]</span><span class="kt">byte</span><span class="p">,</span> <span class="mi">1024</span><span class="p">)</span>
-	<span class="nx">count</span><span class="p">,</span> <span class="nx">err</span> <span class="o">:=</span> <span class="nx">reader</span><span class="p">.</span><span class="nf">Read</span><span class="p">(</span><span class="nx">data</span><span class="p">)</span> <span class="c1">// read a chunk
-</span><span class="c1"></span>	
-	<span class="k">if</span> <span class="nx">err</span> <span class="o">!=</span> <span class="kc">nil</span> <span class="o">&amp;&amp;</span> <span class="nx">err</span> <span class="o">!=</span> <span class="nx">io</span><span class="p">.</span><span class="nx">EOF</span> <span class="p">{</span>
-		<span class="nb">panic</span><span class="p">(</span><span class="nx">fmt</span><span class="p">.</span><span class="nf">Sprintf</span><span class="p">(</span><span class="s">&#34;an error occured in reading the file: {%s}&#34;</span><span class="p">,</span> <span class="s">&#34;data&#34;</span><span class="p">)</span><span class="p">)</span>
-	<span class="p">}</span>
-	
-	<span class="k">for</span> <span class="nx">i</span> <span class="o">:=</span> <span class="mi">0</span><span class="p">;</span> <span class="nx">i</span> <span class="p">&lt;</span> <span class="nx">count</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span> <span class="p">{</span>
-		<span class="nx">fmt</span><span class="p">.</span><span class="nf">Print</span><span class="p">(</span><span class="nb">string</span><span class="p">(</span><span class="nx">data</span><span class="p">[</span><span class="nx">i</span><span class="p">]</span><span class="p">)</span><span class="p">)</span>
-	<span class="p">}</span>
-
-</code></pre></div><p><strong>Writing to a file</strong></p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-golang" data-lang="golang"><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">	<span class="nx">reader</span> <span class="o">:=</span> <span class="nx">bufio</span><span class="p">.</span><span class="nf">NewReader</span><span class="p">(</span><span class="nx">file</span><span class="p">)</span> <span class="c1">// make a read buffer
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>
+</span></span><span class="line"><span class="cl">	<span class="nx">data</span> <span class="o">:=</span> <span class="nb">make</span><span class="p">([]</span><span class="kt">byte</span><span class="p">,</span> <span class="mi">1024</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">	<span class="nx">count</span><span class="p">,</span> <span class="nx">err</span> <span class="o">:=</span> <span class="nx">reader</span><span class="p">.</span><span class="nf">Read</span><span class="p">(</span><span class="nx">data</span><span class="p">)</span> <span class="c1">// read a chunk
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>
+</span></span><span class="line"><span class="cl">	<span class="k">if</span> <span class="nx">err</span> <span class="o">!=</span> <span class="kc">nil</span> <span class="o">&amp;&amp;</span> <span class="nx">err</span> <span class="o">!=</span> <span class="nx">io</span><span class="p">.</span><span class="nx">EOF</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">		<span class="nb">panic</span><span class="p">(</span><span class="nx">fmt</span><span class="p">.</span><span class="nf">Sprintf</span><span class="p">(</span><span class="s">&#34;an error occured in reading the file: {%s}&#34;</span><span class="p">,</span> <span class="s">&#34;data&#34;</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl">	<span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">	<span class="k">for</span> <span class="nx">i</span> <span class="o">:=</span> <span class="mi">0</span><span class="p">;</span> <span class="nx">i</span> <span class="p">&lt;</span> <span class="nx">count</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">		<span class="nx">fmt</span><span class="p">.</span><span class="nf">Print</span><span class="p">(</span><span class="nb">string</span><span class="p">(</span><span class="nx">data</span><span class="p">[</span><span class="nx">i</span><span class="p">]))</span>
+</span></span><span class="line"><span class="cl">	<span class="p">}</span>
+</span></span></code></pre></div><p><strong>Writing to a file</strong></p>
 <p>Three methods Write(p byte[]), WriteByte(c byte), WriteString(s string) are all write some content into the buffer.</p>
-<div class="highlight"><pre class="chroma"><code class="language-Go" data-lang="Go">
-	<span class="c1">// open output file
-</span><span class="c1"></span>	<span class="nx">output</span><span class="p">,</span> <span class="nx">err</span> <span class="o">:=</span> <span class="nx">os</span><span class="p">.</span><span class="nf">Create</span><span class="p">(</span><span class="s">&#34;output.txt&#34;</span><span class="p">)</span>
-	
-	<span class="k">if</span> <span class="nx">err</span> <span class="o">!=</span> <span class="kc">nil</span> <span class="p">{</span>
-		<span class="nb">panic</span><span class="p">(</span><span class="nx">fmt</span><span class="p">.</span><span class="nf">Sprintf</span><span class="p">(</span><span class="s">&#34;an error occured in creating the file: {%s}&#34;</span><span class="p">,</span> <span class="s">&#34;output&#34;</span><span class="p">)</span><span class="p">)</span>
-	<span class="p">}</span>
-	
-	<span class="k">for</span> <span class="nx">i</span> <span class="o">:=</span> <span class="mi">0</span><span class="p">;</span> <span class="nx">i</span> <span class="p">&lt;</span> <span class="nx">count</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span> <span class="p">{</span>
-		<span class="nx">n2</span><span class="p">,</span> <span class="nx">err</span> <span class="o">:=</span> <span class="nx">output</span><span class="p">.</span><span class="nf">Write</span><span class="p">(</span><span class="nx">data</span><span class="p">[</span><span class="p">:</span><span class="nx">i</span><span class="p">]</span><span class="p">)</span>
-		<span class="k">if</span> <span class="nx">err</span> <span class="o">!=</span> <span class="kc">nil</span> <span class="p">{</span>
-			<span class="nb">panic</span><span class="p">(</span><span class="nx">err</span><span class="p">)</span>
-		<span class="p">}</span>
-	<span class="p">}</span>
-    
-</code></pre></div><h2 id="bufio-package-1">&lsquo;bufio&rsquo; package</h2>
-<p>Likewise reading from file, &lsquo;bufio&rsquo; provides some methods when writing a buffer to a file.</p>]]></content>
-		</item>
-		
-		<item>
-			<title>About Visual Studio 2015</title>
-			<link>https://mfahim.github.io/posts/about-visual-studio-2015/</link>
-			<pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-			
-			<guid>https://mfahim.github.io/posts/about-visual-studio-2015/</guid>
-			<description>&lt;p&gt;I don&#39;t know how long you&#39;ve been on the Visual Studio train, but my personal experience started when Visual C++ 6.0 was the only game in the town. MFC and ATL were the major solid libraries that most developers relied on. However, my primary focus of this post is more about the evolution of Visual Studio.Net since 2002.&lt;/p&gt;</description>
-			<content type="html"><![CDATA[<p>I don't know how long you've been on the Visual Studio train, but my personal experience started when Visual C++ 6.0 was the only game in the town. MFC and ATL were the major solid libraries that most developers relied on. However, my primary focus of this post is more about the evolution of Visual Studio.Net since 2002.</p>
-<p>So, scanning my mind quickly, here's the list of things that I can outline:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-Go" data-lang="Go"><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">	<span class="c1">// open output file
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>	<span class="nx">output</span><span class="p">,</span> <span class="nx">err</span> <span class="o">:=</span> <span class="nx">os</span><span class="p">.</span><span class="nf">Create</span><span class="p">(</span><span class="s">&#34;output.txt&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">	<span class="k">if</span> <span class="nx">err</span> <span class="o">!=</span> <span class="kc">nil</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">		<span class="nb">panic</span><span class="p">(</span><span class="nx">fmt</span><span class="p">.</span><span class="nf">Sprintf</span><span class="p">(</span><span class="s">&#34;an error occured in creating the file: {%s}&#34;</span><span class="p">,</span> <span class="s">&#34;output&#34;</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl">	<span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">	<span class="k">for</span> <span class="nx">i</span> <span class="o">:=</span> <span class="mi">0</span><span class="p">;</span> <span class="nx">i</span> <span class="p">&lt;</span> <span class="nx">count</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">		<span class="nx">n2</span><span class="p">,</span> <span class="nx">err</span> <span class="o">:=</span> <span class="nx">output</span><span class="p">.</span><span class="nf">Write</span><span class="p">(</span><span class="nx">data</span><span class="p">[:</span><span class="nx">i</span><span class="p">])</span>
+</span></span><span class="line"><span class="cl">		<span class="k">if</span> <span class="nx">err</span> <span class="o">!=</span> <span class="kc">nil</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">			<span class="nb">panic</span><span class="p">(</span><span class="nx">err</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">		<span class="p">}</span>
+</span></span><span class="line"><span class="cl">	<span class="p">}</span>
+</span></span></code></pre></div><h2 id="bufio-package-1">&lsquo;bufio&rsquo; package<a href="#bufio-package-1" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Likewise reading from file, &lsquo;bufio&rsquo; provides some methods when writing a buffer to a file.</p>]]></content></item><item><title>About Visual Studio 2015</title><link>https://mfahim.github.io/posts/about-visual-studio-2015/</link><pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate><guid>https://mfahim.github.io/posts/about-visual-studio-2015/</guid><description>About Visual Studio 2015.</description><content type="text/html" mode="escaped"><![CDATA[<p>I don&rsquo;t know how long you&rsquo;ve been on the Visual Studio train, but my personal experience started when Visual C++ 6.0 was the only game in the town. MFC and ATL were the major solid libraries that most developers relied on. However, my primary focus of this post is more about the evolution of Visual Studio.Net since 2002.</p>
+<p>So, scanning my mind quickly, here&rsquo;s the list of things that I can outline:</p>
 <ul>
 <li>VS 2002 - .Net 1.0 - WebFoms/WebService</li>
 <li>VS 2003 - .Net 1.1 - Bug fixing/Compact Frameworks</li>
@@ -139,12 +88,12 @@ I like the idea of focused people  development based on these principles:</p>
 <li>VS 2012 - .Net 4.5 - MVC4 / Nuget/ Metro UI/ WebEssentials/</li>
 <li>VS 2013 - .Net 4.5.1 - MVC5 / WebAPI/ Git Support/TypeScript/Bootstrap/Code Map/Browser Link</li>
 </ul>
-<p>Looking back on it, we'll see more of these changes towards better team management and quality of production code and more Agile-friendly in one word.
+<p>Looking back on it, we&rsquo;ll see more of these changes towards better team management and quality of production code and more Agile-friendly in one word.
 However, Visual Studio 2015 is supposed to be a different environment for all MS developers. Specially on the web application front, many changes have been made to persue them into new generations of web apps.</p>
-<p>Visual Studio 2015 has some tentacles, I'll write about them in brief.</p>
+<p>Visual Studio 2015 has some tentacles, I&rsquo;ll write about them in brief.</p>
 <ol>
 <li>
-<p>VS 2015 online(Monaco): is the online editing tool for Azure websites. It's great for cross-platform development, CI (builds &amp; integrations) and hook to other online services. e.g. Github, Jenkins, Trello, Bamboo,..!</p>
+<p>VS 2015 online(Monaco): is the online editing tool for Azure websites. It&rsquo;s great for cross-platform development, CI (builds &amp; integrations) and hook to other online services. e.g. Github, Jenkins, Trello, Bamboo,..!</p>
 </li>
 <li>
 <p>VS 2015: The most important one is all menu items are not in caps anymore! The new changes cover some areas that I put them under these categories:</p>
@@ -220,115 +169,116 @@ Overally, your Http pipeline is optimised in what you need.
 <li>
 <p>Microsoft Built-in dependency injection. So, no Autofac, Structremap, Ninject, You can use dependency injection in Razor page, too!</p>
 </li>
-</ul>]]></content>
-		</item>
-		
-		<item>
-			<title>Read/Write files in GoLang</title>
-			<link>https://mfahim.github.io/posts/read/write-files-in-golang/</link>
-			<pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
-			
-			<guid>https://mfahim.github.io/posts/read/write-files-in-golang/</guid>
-			<description>&lt;p&gt;When dealing with files in Go, &amp;lsquo;os&amp;rsquo; and &amp;lsquo;ioutil&amp;rsquo; built-in packages provide  some utility functions to work with I/O.&lt;/p&gt;</description>
-			<content type="html"><![CDATA[<p>When dealing with files in Go, &lsquo;os&rsquo; and &lsquo;ioutil&rsquo; built-in packages provide  some utility functions to work with I/O.</p>
-<h2 id="os-package">&lsquo;os&rsquo; package</h2>
+</ul>]]></content></item><item><title>Read/Write files in GoLang</title><link>https://mfahim.github.io/posts/read/write-files-in-golang/</link><pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate><guid>https://mfahim.github.io/posts/read/write-files-in-golang/</guid><description>Read/Write files in GoLang.</description><content type="text/html" mode="escaped"><![CDATA[<p>When dealing with files in Go, &lsquo;os&rsquo; and &lsquo;ioutil&rsquo; built-in packages provide  some utility functions to work with I/O.</p>
+<h2 id="os-package">&lsquo;os&rsquo; package<a href="#os-package" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p><strong>Opening a file</strong></p>
 <p>The most simple approach can be done through &ldquo;os&rdquo; package. The error handling is Go-like; failing calls return values of type error rather than error numbers.</p>
-<div class="highlight"><pre class="chroma"><code class="language-go" data-lang="go">
-   <span class="nx">file</span><span class="p">,</span> <span class="nx">err</span> <span class="o">:=</span> <span class="nx">os</span><span class="p">.</span><span class="nf">Open</span><span class="p">(</span><span class="s">&#34;data.csv&#34;</span><span class="p">)</span> <span class="c1">// read access
-</span><span class="c1"></span>
-   <span class="k">if</span> <span class="nx">err</span> <span class="o">!=</span> <span class="kc">nil</span> <span class="p">{</span>
-      <span class="nb">panic</span><span class="p">(</span><span class="nx">fmt</span><span class="p">.</span><span class="nf">Sprintf</span><span class="p">(</span><span class="s">&#34;an error occured in reading the file: {%s}&#34;</span><span class="p">,</span> <span class="s">&#34;data&#34;</span><span class="p">)</span><span class="p">)</span>
-   <span class="p">}</span>
-
-   <span class="k">defer</span> <span class="nx">file</span><span class="p">.</span><span class="nf">Close</span><span class="p">(</span><span class="p">)</span> <span class="c1">// file.Close will run when we&#39;re finished.
-</span><span class="c1"></span>
-</code></pre></div><p>The preferred approach after opening any file is safe closing that file. Go has a modern way of doing this by calling &lsquo;defer&rsquo; statement. It's perfect for situations when resources must be release regardless of which path a function takes to return. For example, in opening multiple files; defer guarantees that  all resources will be safely released if any error occurred during opening one the files.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">   <span class="nx">file</span><span class="p">,</span> <span class="nx">err</span> <span class="o">:=</span> <span class="nx">os</span><span class="p">.</span><span class="nf">Open</span><span class="p">(</span><span class="s">&#34;data.csv&#34;</span><span class="p">)</span> <span class="c1">// read access
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>
+</span></span><span class="line"><span class="cl">   <span class="k">if</span> <span class="nx">err</span> <span class="o">!=</span> <span class="kc">nil</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="nb">panic</span><span class="p">(</span><span class="nx">fmt</span><span class="p">.</span><span class="nf">Sprintf</span><span class="p">(</span><span class="s">&#34;an error occured in reading the file: {%s}&#34;</span><span class="p">,</span> <span class="s">&#34;data&#34;</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl">   <span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">   <span class="k">defer</span> <span class="nx">file</span><span class="p">.</span><span class="nf">Close</span><span class="p">()</span> <span class="c1">// file.Close will run when we&#39;re finished.
+</span></span></span></code></pre></div><p>The preferred approach after opening any file is safe closing that file. Go has a modern way of doing this by calling &lsquo;defer&rsquo; statement. It&rsquo;s perfect for situations when resources must be release regardless of which path a function takes to return. For example, in opening multiple files; defer guarantees that  all resources will be safely released if any error occurred during opening one the files.</p>
 <p><strong>Reading from a file</strong></p>
-<p>In order to show the file's content, I created a buffer to keep the chunks that I read and iterate over that to show the content.</p>
-<div class="highlight"><pre class="chroma"><code class="language-go" data-lang="go">
-	<span class="nx">data</span> <span class="o">:=</span> <span class="nb">make</span><span class="p">(</span><span class="p">[</span><span class="p">]</span><span class="kt">byte</span><span class="p">,</span> <span class="mi">1024</span><span class="p">)</span> <span class="c1">// make a buffer 
-</span><span class="c1"></span>	
-	<span class="nx">count</span><span class="p">,</span> <span class="nx">err</span> <span class="o">:=</span> <span class="nx">file</span><span class="p">.</span><span class="nf">Read</span><span class="p">(</span><span class="nx">data</span><span class="p">)</span>
-	 <span class="k">if</span> <span class="nx">err</span> <span class="o">!=</span> <span class="kc">nil</span> <span class="o">&amp;&amp;</span> <span class="nx">err</span> <span class="o">!=</span> <span class="nx">io</span><span class="p">.</span><span class="nx">EOF</span> <span class="p">{</span>
-	<span class="nb">panic</span><span class="p">(</span><span class="nx">fmt</span><span class="p">.</span><span class="nf">Sprintf</span><span class="p">(</span><span class="s">&#34;an error occured in reading the file: {%s}&#34;</span><span class="p">,</span> <span class="s">&#34;data&#34;</span><span class="p">)</span><span class="p">)</span>
-	<span class="p">}</span>
-	
-	<span class="k">for</span> <span class="nx">i</span> <span class="o">:=</span> <span class="mi">0</span><span class="p">;</span> <span class="nx">i</span> <span class="p">&lt;</span> <span class="nx">count</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span> <span class="p">{</span>
-	  <span class="nx">fmt</span><span class="p">.</span><span class="nf">Print</span><span class="p">(</span><span class="nb">string</span><span class="p">(</span><span class="nx">data</span><span class="p">[</span><span class="nx">i</span><span class="p">]</span><span class="p">)</span><span class="p">)</span>
-	<span class="p">}</span>
-
-</code></pre></div><h2 id="bufio-package">&lsquo;bufio&rsquo; package</h2>
-<p>&lsquo;bufio&rsquo; provides buffering under the hood and makes really when we're working with lots of reads and writes, specially for text files.
+<p>In order to show the file&rsquo;s content, I created a buffer to keep the chunks that I read and iterate over that to show the content.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">	<span class="nx">data</span> <span class="o">:=</span> <span class="nb">make</span><span class="p">([]</span><span class="kt">byte</span><span class="p">,</span> <span class="mi">1024</span><span class="p">)</span> <span class="c1">// make a buffer 
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>	
+</span></span><span class="line"><span class="cl">	<span class="nx">count</span><span class="p">,</span> <span class="nx">err</span> <span class="o">:=</span> <span class="nx">file</span><span class="p">.</span><span class="nf">Read</span><span class="p">(</span><span class="nx">data</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">	 <span class="k">if</span> <span class="nx">err</span> <span class="o">!=</span> <span class="kc">nil</span> <span class="o">&amp;&amp;</span> <span class="nx">err</span> <span class="o">!=</span> <span class="nx">io</span><span class="p">.</span><span class="nx">EOF</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">	<span class="nb">panic</span><span class="p">(</span><span class="nx">fmt</span><span class="p">.</span><span class="nf">Sprintf</span><span class="p">(</span><span class="s">&#34;an error occured in reading the file: {%s}&#34;</span><span class="p">,</span> <span class="s">&#34;data&#34;</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl">	<span class="p">}</span>
+</span></span><span class="line"><span class="cl">	
+</span></span><span class="line"><span class="cl">	<span class="k">for</span> <span class="nx">i</span> <span class="o">:=</span> <span class="mi">0</span><span class="p">;</span> <span class="nx">i</span> <span class="p">&lt;</span> <span class="nx">count</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">	  <span class="nx">fmt</span><span class="p">.</span><span class="nf">Print</span><span class="p">(</span><span class="nb">string</span><span class="p">(</span><span class="nx">data</span><span class="p">[</span><span class="nx">i</span><span class="p">]))</span>
+</span></span><span class="line"><span class="cl">	<span class="p">}</span>
+</span></span></code></pre></div><h2 id="bufio-package">&lsquo;bufio&rsquo; package<a href="#bufio-package" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>&lsquo;bufio&rsquo; provides buffering under the hood and makes really when we&rsquo;re working with lots of reads and writes, specially for text files.
 &lsquo;NewReader&rsquo; returns a reader whose buffer has default size. For example for reading a file the code looks like below.</p>
-<div class="highlight"><pre class="chroma"><code class="language-golang" data-lang="golang">
-	<span class="nx">reader</span> <span class="o">:=</span> <span class="nx">bufio</span><span class="p">.</span><span class="nf">NewReader</span><span class="p">(</span><span class="nx">file</span><span class="p">)</span> <span class="c1">// make a read buffer
-</span><span class="c1"></span>	
-	<span class="nx">data</span> <span class="o">:=</span> <span class="nb">make</span><span class="p">(</span><span class="p">[</span><span class="p">]</span><span class="kt">byte</span><span class="p">,</span> <span class="mi">1024</span><span class="p">)</span>
-	<span class="nx">count</span><span class="p">,</span> <span class="nx">err</span> <span class="o">:=</span> <span class="nx">reader</span><span class="p">.</span><span class="nf">Read</span><span class="p">(</span><span class="nx">data</span><span class="p">)</span> <span class="c1">// read a chunk
-</span><span class="c1"></span>	
-	<span class="k">if</span> <span class="nx">err</span> <span class="o">!=</span> <span class="kc">nil</span> <span class="o">&amp;&amp;</span> <span class="nx">err</span> <span class="o">!=</span> <span class="nx">io</span><span class="p">.</span><span class="nx">EOF</span> <span class="p">{</span>
-		<span class="nb">panic</span><span class="p">(</span><span class="nx">fmt</span><span class="p">.</span><span class="nf">Sprintf</span><span class="p">(</span><span class="s">&#34;an error occured in reading the file: {%s}&#34;</span><span class="p">,</span> <span class="s">&#34;data&#34;</span><span class="p">)</span><span class="p">)</span>
-	<span class="p">}</span>
-	
-	<span class="k">for</span> <span class="nx">i</span> <span class="o">:=</span> <span class="mi">0</span><span class="p">;</span> <span class="nx">i</span> <span class="p">&lt;</span> <span class="nx">count</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span> <span class="p">{</span>
-		<span class="nx">fmt</span><span class="p">.</span><span class="nf">Print</span><span class="p">(</span><span class="nb">string</span><span class="p">(</span><span class="nx">data</span><span class="p">[</span><span class="nx">i</span><span class="p">]</span><span class="p">)</span><span class="p">)</span>
-	<span class="p">}</span>
-
-</code></pre></div><p><strong>Writing to a file</strong></p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-golang" data-lang="golang"><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">	<span class="nx">reader</span> <span class="o">:=</span> <span class="nx">bufio</span><span class="p">.</span><span class="nf">NewReader</span><span class="p">(</span><span class="nx">file</span><span class="p">)</span> <span class="c1">// make a read buffer
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>	
+</span></span><span class="line"><span class="cl">	<span class="nx">data</span> <span class="o">:=</span> <span class="nb">make</span><span class="p">([]</span><span class="kt">byte</span><span class="p">,</span> <span class="mi">1024</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">	<span class="nx">count</span><span class="p">,</span> <span class="nx">err</span> <span class="o">:=</span> <span class="nx">reader</span><span class="p">.</span><span class="nf">Read</span><span class="p">(</span><span class="nx">data</span><span class="p">)</span> <span class="c1">// read a chunk
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>	
+</span></span><span class="line"><span class="cl">	<span class="k">if</span> <span class="nx">err</span> <span class="o">!=</span> <span class="kc">nil</span> <span class="o">&amp;&amp;</span> <span class="nx">err</span> <span class="o">!=</span> <span class="nx">io</span><span class="p">.</span><span class="nx">EOF</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">		<span class="nb">panic</span><span class="p">(</span><span class="nx">fmt</span><span class="p">.</span><span class="nf">Sprintf</span><span class="p">(</span><span class="s">&#34;an error occured in reading the file: {%s}&#34;</span><span class="p">,</span> <span class="s">&#34;data&#34;</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl">	<span class="p">}</span>
+</span></span><span class="line"><span class="cl">	
+</span></span><span class="line"><span class="cl">	<span class="k">for</span> <span class="nx">i</span> <span class="o">:=</span> <span class="mi">0</span><span class="p">;</span> <span class="nx">i</span> <span class="p">&lt;</span> <span class="nx">count</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">		<span class="nx">fmt</span><span class="p">.</span><span class="nf">Print</span><span class="p">(</span><span class="nb">string</span><span class="p">(</span><span class="nx">data</span><span class="p">[</span><span class="nx">i</span><span class="p">]))</span>
+</span></span><span class="line"><span class="cl">	<span class="p">}</span>
+</span></span></code></pre></div><p><strong>Writing to a file</strong></p>
 <p>Three methods Write(p byte[]), WriteByte(c byte), WriteString(s string) are all write some content into the buffer.</p>
-<div class="highlight"><pre class="chroma"><code class="language-Go" data-lang="Go">
-	<span class="c1">// open output file
-</span><span class="c1"></span>	<span class="nx">output</span><span class="p">,</span> <span class="nx">err</span> <span class="o">:=</span> <span class="nx">os</span><span class="p">.</span><span class="nf">Create</span><span class="p">(</span><span class="s">&#34;output.txt&#34;</span><span class="p">)</span>
-	
-	<span class="k">if</span> <span class="nx">err</span> <span class="o">!=</span> <span class="kc">nil</span> <span class="p">{</span>
-		<span class="nb">panic</span><span class="p">(</span><span class="nx">fmt</span><span class="p">.</span><span class="nf">Sprintf</span><span class="p">(</span><span class="s">&#34;an error occured in creating the file: {%s}&#34;</span><span class="p">,</span> <span class="s">&#34;output&#34;</span><span class="p">)</span><span class="p">)</span>
-	<span class="p">}</span>
-	
-	<span class="k">for</span> <span class="nx">i</span> <span class="o">:=</span> <span class="mi">0</span><span class="p">;</span> <span class="nx">i</span> <span class="p">&lt;</span> <span class="nx">count</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span> <span class="p">{</span>
-		<span class="nx">n2</span><span class="p">,</span> <span class="nx">err</span> <span class="o">:=</span> <span class="nx">output</span><span class="p">.</span><span class="nf">Write</span><span class="p">(</span><span class="nx">data</span><span class="p">[</span><span class="p">:</span><span class="nx">i</span><span class="p">]</span><span class="p">)</span>
-		<span class="k">if</span> <span class="nx">err</span> <span class="o">!=</span> <span class="kc">nil</span> <span class="p">{</span>
-			<span class="nb">panic</span><span class="p">(</span><span class="nx">err</span><span class="p">)</span>
-		<span class="p">}</span>
-	<span class="p">}</span>
-    
-</code></pre></div><h2 id="bufio-package-1">&lsquo;bufio&rsquo; package</h2>
-<p>Likewise reading from file, &lsquo;bufio&rsquo; provides some methods when writing a buffer to a file.</p>]]></content>
-		</item>
-		
-		<item>
-			<title>No CMS Movement</title>
-			<link>https://mfahim.github.io/posts/no-cms-movement/</link>
-			<pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
-			
-			<guid>https://mfahim.github.io/posts/no-cms-movement/</guid>
-			<description>&lt;h4 id=&#34;welcome-to-my-first-post&#34;&gt;Welcome to my first post!&lt;/h4&gt;
-&lt;p&gt;Yeah! This post is a static HTML page, No dynamic partial fragments, no connection to database, no charges from any CMS website or 3rd party. Unbelievable, isn&#39;t it?&lt;/p&gt;
-&lt;p&gt;It&#39;s a page written in MarkDown and deployed on GitHub.
-Internet and its evolving nature pushed us one more time to a correct direction. 
-Obviously, all static pages are faster, less expensive and more straightforward to maintain.&lt;/p&gt;</description>
-			<content type="html"><![CDATA[<h4 id="welcome-to-my-first-post">Welcome to my first post!</h4>
-<p>Yeah! This post is a static HTML page, No dynamic partial fragments, no connection to database, no charges from any CMS website or 3rd party. Unbelievable, isn't it?</p>
-<p>It's a page written in MarkDown and deployed on GitHub.
-Internet and its evolving nature pushed us one more time to a correct direction. 
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-Go" data-lang="Go"><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">	<span class="c1">// open output file
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>	<span class="nx">output</span><span class="p">,</span> <span class="nx">err</span> <span class="o">:=</span> <span class="nx">os</span><span class="p">.</span><span class="nf">Create</span><span class="p">(</span><span class="s">&#34;output.txt&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">	
+</span></span><span class="line"><span class="cl">	<span class="k">if</span> <span class="nx">err</span> <span class="o">!=</span> <span class="kc">nil</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">		<span class="nb">panic</span><span class="p">(</span><span class="nx">fmt</span><span class="p">.</span><span class="nf">Sprintf</span><span class="p">(</span><span class="s">&#34;an error occured in creating the file: {%s}&#34;</span><span class="p">,</span> <span class="s">&#34;output&#34;</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl">	<span class="p">}</span>
+</span></span><span class="line"><span class="cl">	
+</span></span><span class="line"><span class="cl">	<span class="k">for</span> <span class="nx">i</span> <span class="o">:=</span> <span class="mi">0</span><span class="p">;</span> <span class="nx">i</span> <span class="p">&lt;</span> <span class="nx">count</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">		<span class="nx">n2</span><span class="p">,</span> <span class="nx">err</span> <span class="o">:=</span> <span class="nx">output</span><span class="p">.</span><span class="nf">Write</span><span class="p">(</span><span class="nx">data</span><span class="p">[:</span><span class="nx">i</span><span class="p">])</span>
+</span></span><span class="line"><span class="cl">		<span class="k">if</span> <span class="nx">err</span> <span class="o">!=</span> <span class="kc">nil</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">			<span class="nb">panic</span><span class="p">(</span><span class="nx">err</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">		<span class="p">}</span>
+</span></span><span class="line"><span class="cl">	<span class="p">}</span>
+</span></span><span class="line"><span class="cl">    
+</span></span></code></pre></div><h2 id="bufio-package-1">&lsquo;bufio&rsquo; package<a href="#bufio-package-1" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>Likewise reading from file, &lsquo;bufio&rsquo; provides some methods when writing a buffer to a file.</p>]]></content></item><item><title>No CMS Movement</title><link>https://mfahim.github.io/posts/no-cms-movement/</link><pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate><guid>https://mfahim.github.io/posts/no-cms-movement/</guid><description>No CMS Movement, the return of static site generators.</description><content type="text/html" mode="escaped"><![CDATA[<h4 id="welcome-to-my-first-post">Welcome to my first post!<a href="#welcome-to-my-first-post" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h4>
+<p>Yeah! This post is a static HTML page, No dynamic partial fragments, no connection to database, no charges from any CMS website or 3rd party. Unbelievable, isn&rsquo;t it?</p>
+<p>It&rsquo;s a page written in MarkDown and deployed on GitHub.
+Internet and its evolving nature pushed us one more time to a correct direction.
 Obviously, all static pages are faster, less expensive and more straightforward to maintain.</p>
 <p>Personally, after some years of developing server-side page applications, I was intrigued by the concept of static blogging engine. Technically, most of the well-known ones turn a pile of templates, content, and resources (like CSS and images) into a neat stack of plain HTML. You run it on your local computer, and it generates a directory of web files that you can upload to your web server, or serve directly.</p>
-<h2 id="basic-concept">Basic Concept</h2>
-<p>The idea is that you don't need a big server-side engine like IIS, PHP, etc. to generate every page, every visit, for every visitor. You can generate the entire site once ahead of time, and only regenerate things when something has changed, e.g. with a post-commit hook on a Git repository containing your content or layout.</p>
+<h2 id="basic-concept">Basic Concept<a href="#basic-concept" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>The idea is that you don&rsquo;t need a big server-side engine like IIS, PHP, etc. to generate every page, every visit, for every visitor. You can generate the entire site once ahead of time, and only regenerate things when something has changed, e.g. with a post-commit hook on a Git repository containing your content or layout.</p>
 <p>One of the clear benefits of this approach is caching without any complex mechanism. Web servers are built to quickly cache static content. All images, styles, javascript libraries could be cached on browsers as well.</p>
-<h2 id="how-the-new-wave-has-been-started">How the new wave has been started?</h2>
-<p>I believe, It's around the key question of whether we really need real-time contents. Many bloggers/publishers have ultimately admitted that not everything needs to be “real time,” and that most users, in most scenarios, don’t experience a noticeable difference between real time and near real time.</p>
-<h2 id="big-players-in-the-market">Big players in the market</h2>
+<h2 id="how-the-new-wave-has-been-started">How the new wave has been started?<a href="#how-the-new-wave-has-been-started" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>I believe, It&rsquo;s around the key question of whether we really need real-time contents. Many bloggers/publishers have ultimately admitted that not everything needs to be “real time,” and that most users, in most scenarios, don’t experience a noticeable difference between real time and near real time.</p>
+<h2 id="big-players-in-the-market">Big players in the market<a href="#big-players-in-the-market" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
 <p>Actually, there are many. Every technology/programming languages build a blogging platform for its users.</p>
 <ol>
-<li><a href="http://jekyllrb.com/">Jekyll</a>: probably the most popular one. It's a Ruby based engine and features tight integration with GitHub.</li>
+<li><a href="http://jekyllrb.com/">Jekyll</a>: probably the most popular one. It&rsquo;s a Ruby based engine and features tight integration with GitHub.</li>
 </ol>
 <ul>
 <li><a href="http://octopress.org/">OctoPress</a> is based on Jekyll and makes it easier to get started by adding default templates and various other tweaks.</li>
 </ul>
 <ol>
 <li>
-<p><a href="http://docs.getpelican.com">Pelican</a>: a python based blogging engine and has most of the features you'd expect. It uses Dropbox as uploading system.</p>
+<p><a href="http://docs.getpelican.com">Pelican</a>: a python based blogging engine and has most of the features you&rsquo;d expect. It uses Dropbox as uploading system.</p>
 </li>
 <li>
 <p><a href="https://ghost.org/">Ghost</a>: The brainchild of one the heads of WordPress team that focuses on writing and publishing. Simply a Node.js app built upon the Express framework.</p>
@@ -340,12 +290,8 @@ Obviously, all static pages are faster, less expensive and more straightforward 
 <p><a href="http://dropplets.com/">Dropplets</a> : is a minimalist Markdown blogging platform focused on delivering based on PHP.</p>
 </li>
 <li>
-<p><a href="http://gohugo.io/">Hugo</a>: A fast and flexible blogging engine that works in many formats. It's written in Go language.</p>
+<p><a href="http://gohugo.io/">Hugo</a>: A fast and flexible blogging engine that works in many formats. It&rsquo;s written in Go language.</p>
 </li>
 </ol>
-<p>In my next posts, I'll elaborate on the new wave of content management via static pages via Hugo.</p>
-<p>Happy Static Blogging!</p>]]></content>
-		</item>
-		
-	</channel>
-</rss>
+<p>In my next posts, I&rsquo;ll elaborate on the new wave of content management via static pages via Hugo.</p>
+<p>Happy Static Blogging!</p>]]></content></item></channel></rss>
