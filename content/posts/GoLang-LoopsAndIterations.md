@@ -1,9 +1,9 @@
 +++
 date = "2015-08-01"
-Description = "Read/Write files in GoLang."
+Description = "Loops and iterations in GoLang."
 Keywords = ["Development", "GoLang"]
 Section = "post"
-Slug = "Read/Write files in GoLang"
+Slug = "loops-and-iterations-in-golang"
 Tags = ["Go", "Language"]
 Title = "Loops And Iterations in GoLang"
 +++
