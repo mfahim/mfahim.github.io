@@ -1,14 +1,11 @@
-baseURL = "https://mfahim.github.io"
-locale = "en-us"
+baseURL = "https://mfahim.github.io/"
+locale = "en-au"
 defaultContentLanguage = "en"
 title = "Notes to Myself on Software Development"
-theme = "hermit-v2"
-# enableGitInfo = true
-# hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+theme = "PaperMod"
+copyright = "This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/)."
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
-# googleAnalytics = "UA-123-45"
-# disqusShortname = "yourdiscussshortname"
+enableRobotsTXT = true
 
 [module.hugoVersion]
   min = "0.167.0"
@@ -19,48 +16,46 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
 [taxonomies]
   tag = "tags"
-  # Categories are disabled by default.
+
+[markup.highlight]
+  noClasses = false  # PaperMod ships the Chroma class styles
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
+  env = "production"
+  description = "Notes to myself on software development."
+  mainSections = ["posts"]
+  DateFormat = "2 January 2006"
 
-  # Metadata mostly used in document's head
-  # description = ""
-  # images = [""]
-  themeColor = "#494f5c"
+  # Follow the reader's OS setting via prefers-color-scheme; no manual toggle.
+  defaultTheme = "auto"
+  disableThemeToggle = true
 
-  homeSubtitle = "“It is better to be clear than to be clever.”"
-  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener"></a>'
-  # bgImg = ""  # Homepage background-image URL
-
-  # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  # gitUrl = "https://github.com/username/repository/commit/"
-
-  # Toggling this option needs to rebuild SCSS, requires Hugo extended version
-  justifyContent = false  # Set "text-align: justify" to `.content`.
-
-  relatedPosts = false  # Add a related content section to all single posts page
-
-  code_copy_button = true # Turn on/off the code-copy-button for code-fields
-  
-  # Add custom css
-  # customCSS = ["css/foo.css", "css/bar.css"]
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = true
+  ShowShareButtons = false
+  ShowBreadCrumbs = false
+  ShowFullTextinRSS = false
 
   [params.author]
     name = "Mohammad Fahim"
 
-  # Social Icons
-  # Check https://github.com/Track3/hermit#social-icons for more info.
-  [[params.social]]
+  [params.homeInfoParams]
+    Title = "Notes to Myself on Software Development"
+    Content = "“It is better to be clear than to be clever.”"
+
+  [[params.socialIcons]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/mohammad-fahim-05223142/"
 
-  [[params.social]]
+  [[params.socialIcons]]
     name = "github"
     url = "https://github.com/mfahim"
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "index.xml"
 
 [menu]
 
@@ -70,6 +65,16 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     weight = 10
 
   [[menu.main]]
+    name = "Tags"
+    url = "tags/"
+    weight = 20
+
+  [[menu.main]]
     name = "About"
     url = "about/"
-    weight = 20
+    weight = 30
+
+  [[menu.main]]
+    name = "Newsletter"
+    url = "https://foreverdraft.substack.com"
+    weight = 40
