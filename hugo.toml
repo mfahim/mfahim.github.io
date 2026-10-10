@@ -22,6 +22,7 @@ enableRobotsTXT = true
 
 [params]
   env = "production"
+  author = "Mohammad Fahim"
   description = "Notes to myself on software development."
   mainSections = ["posts"]
   DateFormat = "2 January 2006"
@@ -38,8 +39,14 @@ enableRobotsTXT = true
   ShowBreadCrumbs = false
   ShowFullTextinRSS = false
 
-  [params.author]
-    name = "Mohammad Fahim"
+  [params.assets]
+    favicon = "favicon.ico"
+    favicon16x16 = "favicon-16x16.png"
+    favicon32x32 = "favicon-32x32.png"
+    apple_touch_icon = "apple-touch-icon.png"
+    safari_pinned_tab = "favicon.svg"
+    theme_color = "#F3EEE4"
+    msapplication_TileColor = "#F3EEE4"
 
   [params.homeInfoParams]
     Title = "Notes to Myself on Software Development"

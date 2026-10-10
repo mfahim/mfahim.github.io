@@ -1,0 +1,11 @@
+{{- /* Forever Draft fonts: Newsreader (headings and body), IBM Plex Mono (labels and metadata). */ -}}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400..600;1,6..72,400..600&display=swap">
+<link rel="icon" type="image/svg+xml" href="{{ "favicon.svg" | absURL }}">
+{{- /* PaperMod reads prefers-color-scheme once on load; keep following the OS if it changes mid-visit. */}}
+<script>
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function (e) {
+        document.documentElement.dataset.theme = e.matches ? 'dark' : 'light';
+    });
+</script>
