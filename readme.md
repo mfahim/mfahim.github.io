@@ -1,44 +1,22 @@
 # Notes to Myself on Software Development
 
-Source for my blog at https://mfahim.github.io/. Newer writing lives in my newsletter, [Forever Draft](https://foreverdraft.substack.com).
+Hi, I'm Mo Fahim.
 
-Built with [Hugo](https://gohugo.io/) (extended, 0.167.0 or later) and the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme, with a small style override for the Forever Draft look.
+I've spent more than 25 years building software end to end, taking ideas from design through development, testing, deployment and release across APIs, web applications and mobile platforms. Along the way, I've written code, designed systems, shaped architecture, and been the person ultimately responsible when something ships. For the last decade, I've focused on leading the teams that do it.
 
-## Running locally
+Two things still hold my interest after all these years:
 
-```sh
-brew install hugo                      # extended build
-git clone --recurse-submodules https://github.com/mfahim/mfahim.github.io.git
-cd mfahim.github.io
-hugo server                            # http://localhost:1313/
-```
+- **Delivery**: turning ideas into working software, and keeping that journey short, honest, and free from ceremony that adds more friction than value.
+- **People**: what makes a group of engineers work well together, how culture is built or quietly lost, and what leadership looks like when the people around you often know more than you do about the problem in front of them.
 
-If you cloned without `--recurse-submodules`, run `git submodule update --init` to fetch the theme.
+This repository holds my blog, which started in 2015 as notes to myself on software development. These days, most of my writing lives at [Forever Draft](https://foreverdraft.substack.com): short notes drawn from real projects, outages, decisions and mistakes.
 
-## Where things live
+Nothing here is presented as the final word. If you've seen things differently, I'd love to hear about it.
 
-| Path | What |
-|---|---|
-| `content/posts/` | Posts. Slugs are set in front matter; don't change them, they are live URLs. |
-| `content/about.md` | About page |
-| `hugo.toml` | Site config, menu, theme params |
-| `assets/css/extended/forever-draft.css` | Palette, fonts and layout overrides on top of PaperMod |
-| `layouts/_partials/extend_head.html` | Google Fonts and dark-mode listener |
-| `static/` | Favicons (FD mark) |
-| `themes/PaperMod` | Theme, as a git submodule pinned to a commit |
+- Blog: https://mfahim.github.io
+- Newsletter: https://foreverdraft.substack.com
+- LinkedIn: https://www.linkedin.com/in/mohammad-fahim-05223142/
 
-To update the theme: `git submodule update --remote themes/PaperMod`, check with `hugo server`, then commit the new submodule pointer.
+---
 
-## Deploying
-
-Pushing to `master` runs `.github/workflows/hugo.yml`, which builds the site and deploys it with GitHub Pages. Nothing built is committed; `public/` is ignored. To bump Hugo, change `HUGO_VERSION` in the workflow and `module.hugoVersion.min` in `hugo.toml` together.
-
-### One-off migration (from the old two-repo setup)
-
-The site used to be built locally and pushed to a separate `mfahim.github.io` repo. To move to this single repo:
-
-1. On GitHub, rename the old `mfahim/mfahim.github.io` repo to `mfahim.github.io-archive`, then in its **Settings → Pages** unpublish the site. Expect a few minutes of downtime between here and step 4.
-2. Rename this repo from `Blog` to `mfahim.github.io` (**Settings → General → Repository name**). GitHub redirects the old URL, but update your local remote anyway:
-   `git remote set-url origin https://github.com/mfahim/mfahim.github.io.git`
-3. In **Settings → Pages**, set **Source** to **GitHub Actions**.
-4. `git push origin master`. Watch the run under **Actions**; the site is back when the `deploy` job goes green.
+<sub>Built with [Hugo](https://gohugo.io/) and the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme. Run locally with `git clone --recurse-submodules` then `hugo server`; pushes to `master` deploy to GitHub Pages via Actions.</sub>
