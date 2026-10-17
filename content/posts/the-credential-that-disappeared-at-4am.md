@@ -30,6 +30,7 @@ My biggest takeaway?
 There is no such thing as a credential that doesn’t expire. There are only credentials whose expiry date you don’t know yet.
 
 I’d be curious to hear if others have run into something similar. Have you ever had a dependency fail in a way nobody expected?
----
+
+
 
 *First published on [Forever Draft](https://foreverdraft.substack.com/p/the-credential-that-disappeared-at), where the comments live.*
